@@ -1,1 +1,1 @@
-My first readme.
+A repository on essentiall git commands.
